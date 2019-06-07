@@ -1,4 +1,4 @@
-# Guidelines for Contributing Issues for the Trusted Tester for Web Training Course
+# Guidelines for Contributing Issues for the "Trusted Tester for Web on Windows" Training Course
 First of all, **THANK YOU** for helping us make the Trusted Tester training better by identifying issues. We want to make the training as useful as possible, and your input will help us along that path. In order to help us keep things organized and get to the bottom of the issue as quickly as possible, we ask that you follow just a few guidelines, as outlined below.
 
 ## Use the Issue Template
