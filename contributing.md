@@ -1,5 +1,5 @@
 # Guidelines for Contributing Issues for the "Trusted Tester for Web on Windows" Training Course
-First of all, **THANK YOU** for helping us make the Trusted Tester training better by identifying issues. We want to make the training as useful as possible, and your input will help us along that path. In order to help us keep things organized and get to the bottom of the issue as quickly as possible, we ask that you follow just a few guidelines, as outlined below.
+First of all, **THANK YOU** for helping us make the Trusted Tester training better. We want to make the training as useful as possible, and your input will help us along that path. In order to help us keep things organized and get to the bottom of the issue as quickly as possible, we ask that you follow just a few guidelines, as outlined below.
 
 ## Use the Issue Template
 When you open a new issue, you will see placeholder text in the comment field outlining the type of information we would generally like included in most issues. Of course, not all items apply to every issue, depending on the type of issue. Modify the content to include the information that makes the most sense for the issue. Nevertheless, generally we want you to report the following for issues:
