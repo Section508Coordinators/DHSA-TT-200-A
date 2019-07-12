@@ -1,4 +1,4 @@
-If you haven't already, please review the [Guidelines for Contributing](contributing.md) in the main folder of this repository before submitting any issues.
+[If you haven't already, please review the [Guidelines for Contributing](contributing.md) in the main folder of this repository before submitting any issues. You can delete this paragraph and other text that is not necessary before submitting your issue.]
 
 ## Issue Type (put an X between the brackets to indicate issue type)
 - [ ] System Bug (the course doesn't function properly)
